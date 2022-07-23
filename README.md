@@ -41,4 +41,4 @@
 • Application <br/>
 
 ## Project
-• [Diabetes Feature Engineering](https://github.com/emirakdemir/Project_-Diabetes_Feature_Engineering/blob/main/Bitirme-Projesi-1.ipynb)
+• [Diabetes Feature Engineering](https://github.com/emirakdemir/diabetesAnalysis/blob/main/diabetes_analysis.ipynb)
