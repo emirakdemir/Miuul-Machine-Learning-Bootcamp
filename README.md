@@ -9,7 +9,7 @@
 • Functions <br/>
 • Conditions & Loops <br/>
 • Comprehensions <br/>
-## Homeworks
+### Homeworks
 • Run python code on command line <br/>
 • [Create virtual environment](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/1-Python%20for%20Data%20Science/VirtualEnvironment.py) <br/>
 • [Python exercises](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/1-Python%20for%20Data%20Science/assignment.py)
@@ -23,7 +23,7 @@
 • Data Analysis with Python: Pandas <br/>
 • Data Visualization <br/>
 • Advanced Functional Exploratory Data Analysis <br/>
-## Homeworks
+### Homeworks
 • Adding properties and docstrings to functions<br/>
 • [Pandas exercises](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/2-%20Data%20Analysis%20With%20Python/pandasPractices.py)
 
@@ -42,5 +42,5 @@
 • Feature Extraction <br/>
 • Application <br/>
 
-## Project
+### Project
 • [Diabetes Feature Engineering](https://github.com/emirakdemir/Project_-Diabetes_Feature_Engineering/blob/main/Bitirme-Projesi-1.ipynb)
