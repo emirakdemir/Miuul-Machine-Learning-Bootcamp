@@ -1,7 +1,7 @@
 
 ## *Week 1: Python Programming*
 
-### **Topics**
+## **Topics**
 
 • Virtual Environment <br/>
 • Package Management <br/>
@@ -9,7 +9,7 @@
 • Functions <br/>
 • Conditions & Loops <br/>
 • Comprehensions <br/>
-### Homeworks
+## Homeworks
 • Run python code on command line <br/>
 • [Create virtual environment](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/1-Python%20for%20Data%20Science/VirtualEnvironment.py) <br/>
 • [Python exercises](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/1-Python%20for%20Data%20Science/assignment.py)
@@ -18,7 +18,7 @@
 
 ## *Week 2: Python Programming*
 
-### **Topics**
+## **Topics**
 • Data Analysis with Python: NumPy <br/>
 • Data Analysis with Python: Pandas <br/>
 • Data Visualization <br/>
@@ -34,7 +34,7 @@
 
 ## *Week 3: Feature Engineering*
 
-### **Topics**
+## **Topics**
 • Feature Engineering <br/>
 • Outliers <br/>
 • Missing Values <br/>
