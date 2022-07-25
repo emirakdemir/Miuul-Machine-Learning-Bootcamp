@@ -43,3 +43,14 @@
 ## Project
 • [Diabetes Feature Engineering](https://github.com/emirakdemir/diabetesAnalysis/blob/main/diabetesAnalysis.ipynb)<br/>
 • [Telco Customer Churn Feature Engineering](https://github.com/emirakdemir/Telco-Customer-Churn-Feature-Engineering/blob/main/tccfe.ipynb)
+
+
+## *Week 4: Machine Learning*
+
+## **Topics**
+• Basic Concepts in Machine Learning <br/>
+• Linear Regression <<br/>
+• Logistic Regression <br/>
+
+# Project
+• Salary Prediction using Machine learning
