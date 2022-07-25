@@ -52,5 +52,5 @@
 • Linear Regression <br/>
 • Logistic Regression <br/>
 
-# Project
+## Project
 • Salary Prediction using Machine learning
