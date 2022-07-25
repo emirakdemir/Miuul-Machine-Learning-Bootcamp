@@ -41,4 +41,5 @@
 • Application <br/>
 
 ## Project
-• [Diabetes Feature Engineering](https://github.com/emirakdemir/diabetesAnalysis/blob/main/diabetes_analysis.ipynb)
+• [Diabetes Feature Engineering](https://github.com/emirakdemir/diabetesAnalysis/blob/main/diabetesAnalysis.ipynb)
+• [Telco Customer Churn Feature Engineering(https://github.com/emirakdemir/Telco-Customer-Churn-Feature-Engineering/blob/main/tccfe.ipynb)
