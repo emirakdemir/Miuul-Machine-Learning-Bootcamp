@@ -49,8 +49,8 @@
 
 ## **Topics**
 • Basic Concepts in Machine Learning <br/>
-• Linear Regression <<br/>
+• Linear Regression <br/>
 • Logistic Regression <br/>
 
 # Project
-• [Salary Prediction using Machine learning]
+• Salary Prediction using Machine learning
