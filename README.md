@@ -53,4 +53,4 @@
 • Logistic Regression <br/>
 
 # Project
-• Salary Prediction using Machine learning
+• [Salary Prediction using Machine learning]
