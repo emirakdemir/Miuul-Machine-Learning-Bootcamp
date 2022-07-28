@@ -48,7 +48,7 @@
 ## *Week 4: Machine Learning*
 
 ## **Topics**
-• Basic Concepts in Machine Learning <br/>
+• Fundamental Concepts <br/>
 • Linear Regression <br/>
 • Logistic Regression <br/>
 
