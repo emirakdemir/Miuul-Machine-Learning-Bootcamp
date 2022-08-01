@@ -69,5 +69,5 @@
 • Imbalanced Datasets<br/>
 
 ## Project
-• House Price Predection<br/>
-• Customer Abandonment Predection<br/>
+• House Price Prediction Model<br/>
+• Customer Churn Prediction Model
