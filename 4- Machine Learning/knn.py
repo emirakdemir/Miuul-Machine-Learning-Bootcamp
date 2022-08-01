@@ -8,7 +8,7 @@ pd.set_option('display.width', 500)
 
 # 1. Exploratory Data Analysis #
 
-df = pd.read_csv("C:/Users/emir/OneDrive/Masaüstü/Miuul/machine_learning/datasets/diabetes.csv")
+df = pd.read_csv("datasets/diabetes.csv")
 df.head()
 df.shape
 df.describe().T
