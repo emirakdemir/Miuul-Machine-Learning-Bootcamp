@@ -53,4 +53,4 @@
 • Logistic Regression <br/>
 
 ## Project
-• Salary Prediction using Machine Learning
+• [Salary Prediction](https://github.com/emirakdemir/Salary-Prediction/blob/main/prediction.py)
