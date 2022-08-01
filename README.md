@@ -13,7 +13,7 @@
 • Run python code on command line <br/>
 • [Create virtual environment](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/1-Python%20for%20Data%20Science/VirtualEnvironment.py) <br/>
 • [Python exercises](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/1-Python%20for%20Data%20Science/assignment.py)
------------------------------
+
 
 ## *Week 2: Python Programming*
 
@@ -28,7 +28,7 @@
 
 ## Project 
 • [Rule-based Classification](https://github.com/emirakdemir/Miuul-Machine-Learning-Bootcamp/blob/main/2-%20Data%20Analysis%20With%20Python/Kural%20Tabanl%C4%B1%20S%C4%B1n%C4%B1fland%C4%B1rma%20ile%20Potansiyel%20M%C3%BC%C5%9Fteri%20Getirisi%20Hesaplama/ktsipmgh.py)
------------------------------
+
 
 ## *Week 3: Feature Engineering*
 
@@ -43,7 +43,7 @@
 ## Project
 • [Diabetes Feature Engineering](https://github.com/emirakdemir/diabetesAnalysis/blob/main/diabetesAnalysis.ipynb)<br/>
 • [Telco Customer Churn Feature Engineering](https://github.com/emirakdemir/Telco-Customer-Churn-Feature-Engineering/blob/main/tccfe.ipynb)
------------------------------
+
 
 ## *Week 4: Machine Learning*
 
@@ -54,7 +54,7 @@
 
 ## Project
 • [Salary Prediction](https://github.com/emirakdemir/Salary-Prediction/blob/main/prediction.py)
------------------------------
+
 
 ## *Week 5: Machine Learning*
 ## **Topics**
@@ -71,4 +71,4 @@
 ## Project
 • House Price Prediction Model<br/>
 • Customer Churn Prediction Model
------------------------------
+
