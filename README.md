@@ -54,3 +54,20 @@
 
 ## Project
 • [Salary Prediction](https://github.com/emirakdemir/Salary-Prediction/blob/main/prediction.py)
+
+
+## *Week 5: Machine Learning*
+## **Topics**
+• K-Nearest Neighbors
+• Hyperparameter Optimization
+• Classification & Regression Tree
+• Random Forest
+• Gradient Boosting Machines
+• eXtreme Gradient Boosting
+• LightGBM
+• CatBoost
+• Imbalanced Datasets
+
+## Project
+• House Price Predection
+• Customer Abandonment Predection
