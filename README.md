@@ -58,16 +58,16 @@
 
 ## *Week 5: Machine Learning*
 ## **Topics**
-• K-Nearest Neighbors
-• Hyperparameter Optimization
-• Classification & Regression Tree
-• Random Forest
-• Gradient Boosting Machines
-• eXtreme Gradient Boosting
-• LightGBM
-• CatBoost
-• Imbalanced Datasets
+• K-Nearest Neighbors<br/>
+• Hyperparameter Optimization<br/>
+• Classification & Regression Tree<br/>
+• Random Forest<br/>
+• Gradient Boosting Machines<br/>
+• eXtreme Gradient Boosting<br/>
+• LightGBM<br/>
+• CatBoost<br/>
+• Imbalanced Datasets<br/>
 
 ## Project
-• House Price Predection
-• Customer Abandonment Predection
+• House Price Predection<br/>
+• Customer Abandonment Predection<br/>
