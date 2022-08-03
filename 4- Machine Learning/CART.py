@@ -197,6 +197,8 @@ skompile(cart_final.predict).to('excel')
 #ExcelCode([('A1',
 #            'IF((x2<=127.5),IF((x8<=28.5),IF((x6<=45.39999961853027),IF((x6<=30.949999809265137),IF((x1<=7.5),0,1),0),IF((x3<=99.0),1,0)),IF((x6<=26.350000381469727),IF((x6<=9.649999618530273),1,0),IF((x2<=99.5),IF((x2<=28.5),1,0),IF((x7<=0.5609999895095825),0,1)))),IF((x6<=29.949999809265137),IF((x2<=145.5),IF((x5<=132.5),IF((x6<=28.149999618530273),0,1),0),IF((x8<=25.5),0,IF((x8<=61.0),1,0))),IF((x2<=157.5),IF((x8<=30.5),IF((x3<=61.0),1,0),1),IF((x5<=629.5),1,0))))')])
 
+
+
 # Prediction using Python Codes
 
 def predict_with_rules(x):
@@ -263,3 +265,14 @@ predict_with_rules(x)
 x = [6, 148, 70, 35, 0, 30, 0.62, 50]
 
 predict_with_rules(x)
+
+
+# Saving and Loading Model
+joblib.dump(cart_final, "cart_final.pkl")
+
+cart_model_from_disc = joblib.load("cart_final.pkl")
+
+x = [12, 13, 20, 23, 4, 55, 12, 7]
+
+cart_model_from_disc.predict(pd.DataFrame(x).T)
+
