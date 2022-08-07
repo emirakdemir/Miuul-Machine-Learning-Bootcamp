@@ -25,7 +25,7 @@ pd.set_option('display.max_columns', None)
 warnings.simplefilter(action='ignore', category=Warning)
 
 
-df = pd.read_csv("C:/Users/emir/OneDrive/Masaüstü/Miuul-Machine-Learning-Bootcamp/4- Machine Learning/datasets/diabetes.csv")
+df = pd.read_csv("datasets/diabetes.csv")
 df.head()
 
 y= df["Outcome"]
