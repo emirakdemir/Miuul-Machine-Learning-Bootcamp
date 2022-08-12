@@ -157,7 +157,7 @@ df["kmeans_cluster_no"] = clusters_kmeans
 # Principal Component Analysis
 ################################
 
-df = pd.read_csv("datasets/hitters.csv")
+df = pd.read_csv("datasets/Hitters.csv")
 df.head()
 
 num_cols = [col for col in df.columns if df[col].dtypes != "O" and "Salary" not in col]
@@ -202,7 +202,7 @@ np.cumsum(pca.explained_variance_ratio_)
 # BONUS: Principal Component Regression
 ################################
 
-df = pd.read_csv("datasets/hitters.csv")
+df = pd.read_csv("datasets/Hitters.csv")
 df.shape
 
 len(pca_fit)
@@ -334,3 +334,23 @@ X = df.drop(["Outcome"], axis=1)
 pca_df = create_pca_df(X, y)
 
 plot_pca(pca_df, "Outcome")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
