@@ -72,3 +72,14 @@
 • House Price Prediction Model<br/>
 • Customer Churn Prediction Model
 
+
+## *Week 6: Machine Learning*
+## **Topics**
+• Unsupervised Learning<br/>
+• K-Means<br/>
+• Hierarchical Cluster Analysis<br/>
+• Principal Component Analysis<br/>
+• Machine Learning Pipeline<br/>
+
+## Project
+• Customer Segmentation
