@@ -69,8 +69,8 @@
 • Imbalanced Datasets<br/>
 
 ## Project
-• House Price Prediction Model<br/>
-• Customer Churn Prediction Model
+• [House Price Prediction Model](https://github.com/emirakdemir/House-Price/blob/main/hp.py)<br/>
+• [Customer Churn Prediction Model](https://github.com/emirakdemir/Telco-Churn/blob/main/tC.py)
 
 
 ## *Week 6: Machine Learning*
