@@ -82,4 +82,4 @@
 • Machine Learning Pipeline<br/>
 
 ## Project
-• Customer Segmentation
+• [Customer Segmentation] (https://github.com/emirakdemir/Customer_Segmentation/blob/main/cs.py)
